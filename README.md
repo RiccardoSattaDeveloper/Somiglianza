@@ -1,3 +1,7 @@
+• Linguaggio: Python.
+• Librerie standard: glob, os.
+• Libreria esterna: face_recognition.
+
 1. Dopo aver clonato la repository, creare un ambiente virtuale:
 cd Somiglianza
 python3 -m venv venv310
