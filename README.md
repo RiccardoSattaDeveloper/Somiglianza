@@ -6,7 +6,7 @@
 
 ---
 
-1. Dopo aver clonato la repository, creare un ambiente virtuale:
+Dopo aver clonato la repository, crea un ambiente virtuale:
 
 cd Somiglianza
 
@@ -16,6 +16,6 @@ source venv310/bin/activate  # Linux/Mac
 
 venv310\Scripts\activate     # Windows
 
-2. Installare le dipendenze:
+Poi, installare le dipendenze:
 
 pip install -r requirements.txt
