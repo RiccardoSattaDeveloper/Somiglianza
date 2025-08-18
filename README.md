@@ -2,7 +2,7 @@
 
 • Librerie standard: glob, os.
 
-• Libreria esterna: face_recognition.
+• Librerie esterne: face_recognition.
 
 ---
 
